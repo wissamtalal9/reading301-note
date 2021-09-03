@@ -8,7 +8,7 @@ My name is **Wissam Talal AbuAresh** ,I graduate CS computer science from mutah 
 | Contents    | Link        |   About   |
 | :---        |    :----:   |          ---: |
 | read301-01    | [Click Here](https://wissamtalal9.github.io/reading301-note/read301-1) | Introduction to React and Components |
-| read301-02    | [Click Here](https://wissamtalal9.github.io/reading301-note/read301-2) |  |
+| read301-02    | [Click Here](https://wissamtalal9.github.io/reading301-note/read301-2) | State and Props |
 | read301-03     | [Click Here](https://wissamtalal9.github.io/reading301-note/read301-3) |  |
 | read301-04     | [Click Here](https://wissamtalal9.github.io/reading301-note/read301-4) |  |
 | read301-05    | [Click Here](https://wissamtalal9.github.io/reading301-note/read301-5) | |
