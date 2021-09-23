@@ -21,4 +21,4 @@ My name is **Wissam Talal AbuAresh** ,I graduate CS computer science from mutah 
 | read301-12    | [Click Here](https://wissamtalal9.github.io/reading301-note/read301-12) | CRUD |
 | read301-13    | [Click Here](https://wissamtalal9.github.io/reading301-note/read301-13) | Diversity & Inclusion in the Tech Industry |
 | read301-14    | [Click Here](https://wissamtalal9.github.io/reading301-note/read301-14) |  |
-| read301-15    | [Click Here](https://wissamtalal9.github.io/reading301-note/read301-15) |  |
+| read301-15    | [Click Here](https://wissamtalal9.github.io/reading301-note/read301-15) | Project Kickoff |
